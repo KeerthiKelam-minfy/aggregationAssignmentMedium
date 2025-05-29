@@ -8,9 +8,9 @@
 
 
 **2. Average Price of Products per Tag:**
-
-![image](https://github.com/user-attachments/assets/23d081ae-e82c-4661-8478-1f0992d60807)
-![image](https://github.com/user-attachments/assets/ab3f4a8c-81d5-49ad-9653-c901afe94dd7)
+ 
+![image](https://github.com/user-attachments/assets/23d081ae-e82c-4661-8478-1f0992d60807)  
+![image](https://github.com/user-attachments/assets/ab3f4a8c-81d5-49ad-9653-c901afe94dd7)  
 ![image](https://github.com/user-attachments/assets/3879a98d-9e41-44bc-821b-cf6a9ee283ab)
 
 
